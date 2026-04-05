@@ -54,7 +54,7 @@ This repository is a growing collection of Laravel-based projects designed to so
 
 | Project | Description | Status | Live |
 |---|---|---|---|
-| 🗺️ **Local Business Discovery** | Help local businesses get found by nearby customers | 🟡 In Development | Coming Soon |
+| 🗺️ **Link-in-bio Builder** | Track the clicks of your links and style your page for viewing | 🟡 In Development | Coming Soon |
 | *(more coming soon)* | | | |
 
 > Projects are added as they reach a deployable state. Star the repo to stay updated.
