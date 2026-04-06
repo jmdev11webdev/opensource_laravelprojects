@@ -1,5 +1,8 @@
 # Open Source Laravel Projects by JMDEVSTACK
 
+List of Open Source Laravel Projects
+<a href="https://www.github.com/jmdev11webdev/simplefree_linkinbio_builder">Simple Free Link-in-bio Builder</a>
+
 <div align="center">
 
 ```
