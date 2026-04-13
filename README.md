@@ -5,22 +5,6 @@ List of Open Source Laravel Projects
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        ░█████╗░██████╗░███████╗███╗░░██╗                 ║
-║        ██╔══██╗██╔══██╗██╔════╝████╗░██║                 ║
-║        ██║░░██║██████╔╝█████╗░░██╔██╗██║                 ║
-║        ██║░░██║██╔═══╝░██╔══╝░░██║╚████║                 ║
-║        ╚█████╔╝██║░░░░░███████╗██║░╚███║                 ║
-║        ░╚════╝░╚═╝░░░░░╚══════╝╚═╝░░╚══╝                 ║
-║                                                           ║
-║          L A R A V E L   P R O J E C T S                 ║
-║          Open Source · Deployed · Collaborative           ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel_Cloud-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel_Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
